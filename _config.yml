@@ -37,7 +37,7 @@ theme_settings :
     youtube:
     facebook:
     instagram:
-    site: https://royeden.netlify.com/
+    site: royeden.netlify.com
 
   # Disqus
   disqus_shortname :
